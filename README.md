@@ -1,2 +1,1 @@
-# dockerproj
-This is a docker project
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Micah-Shallom/dockerproj/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Micah-Shallom/dockerproj/tree/main)
